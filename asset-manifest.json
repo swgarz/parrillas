@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/parrillas/static/css/main.ab7136cd.chunk.css",
+    "main.js": "/parrillas/static/js/main.d4a2f4c2.chunk.js",
+    "main.js.map": "/parrillas/static/js/main.d4a2f4c2.chunk.js.map",
+    "runtime-main.js": "/parrillas/static/js/runtime-main.53d262d7.js",
+    "runtime-main.js.map": "/parrillas/static/js/runtime-main.53d262d7.js.map",
+    "static/js/2.86fe4003.chunk.js": "/parrillas/static/js/2.86fe4003.chunk.js",
+    "static/js/2.86fe4003.chunk.js.map": "/parrillas/static/js/2.86fe4003.chunk.js.map",
+    "static/js/3.0e013146.chunk.js": "/parrillas/static/js/3.0e013146.chunk.js",
+    "static/js/3.0e013146.chunk.js.map": "/parrillas/static/js/3.0e013146.chunk.js.map",
+    "index.html": "/parrillas/index.html",
+    "static/css/main.ab7136cd.chunk.css.map": "/parrillas/static/css/main.ab7136cd.chunk.css.map",
+    "static/js/2.86fe4003.chunk.js.LICENSE.txt": "/parrillas/static/js/2.86fe4003.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/parrillas/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.53d262d7.js",
+    "static/js/2.86fe4003.chunk.js",
+    "static/css/main.ab7136cd.chunk.css",
+    "static/js/main.d4a2f4c2.chunk.js"
+  ]
+}
