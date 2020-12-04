@@ -1,4 +1,4 @@
-import logo from '../public/motocicleta.jpg';
+import logo from '../src/img/motocicleta.jpg';
 import './App.css';
 
 function App() {
