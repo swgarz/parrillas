@@ -6,14 +6,14 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <hi>React Apliccation</hi>
+        <hi>| Parrillas |</hi>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://articulo.mercadolibre.com.mx/MLM-806749117-parrilla-para-pulsar-200-y-200-fi-_JM"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          <button>Comprar</button>
         </a>
       </header>
     </div>
