@@ -6,7 +6,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <hi>| Parrillas |</hi>
+        <p>| Parrillas |</p>
         <a
           className="App-link"
           href="https://articulo.mercadolibre.com.mx/MLM-806749117-parrilla-para-pulsar-200-y-200-fi-_JM"
