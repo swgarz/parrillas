@@ -1,21 +1,15 @@
-import logo from '../src/img/motocicleta.jpg';
+
 import './App.css';
+import Header from './header';
+import Container from './container';
+import "bootstrap/dist/css/bootstrap.min.css";
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>| Parrillas |</p>
-        <a
-          className="App-link"
-          href="https://articulo.mercadolibre.com.mx/MLM-806749117-parrilla-para-pulsar-200-y-200-fi-_JM"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          <button>Comprar</button>
-        </a>
-      </header>
+    <div className="">
+        <Header />
+        <Container />
+        
     </div>
   );
 }
