@@ -1,23 +1,26 @@
 {
   "files": {
-    "main.css": "/parrillas/static/css/main.8fa6af65.chunk.css",
-    "main.js": "/parrillas/static/js/main.642124e7.chunk.js",
-    "main.js.map": "/parrillas/static/js/main.642124e7.chunk.js.map",
-    "runtime-main.js": "/parrillas/static/js/runtime-main.53d262d7.js",
-    "runtime-main.js.map": "/parrillas/static/js/runtime-main.53d262d7.js.map",
-    "static/js/2.86fe4003.chunk.js": "/parrillas/static/js/2.86fe4003.chunk.js",
-    "static/js/2.86fe4003.chunk.js.map": "/parrillas/static/js/2.86fe4003.chunk.js.map",
-    "static/js/3.0e013146.chunk.js": "/parrillas/static/js/3.0e013146.chunk.js",
-    "static/js/3.0e013146.chunk.js.map": "/parrillas/static/js/3.0e013146.chunk.js.map",
+    "main.css": "/parrillas/static/css/main.a3f95d93.chunk.css",
+    "main.js": "/parrillas/static/js/main.e9fadc92.chunk.js",
+    "main.js.map": "/parrillas/static/js/main.e9fadc92.chunk.js.map",
+    "runtime-main.js": "/parrillas/static/js/runtime-main.ebfcaf0c.js",
+    "runtime-main.js.map": "/parrillas/static/js/runtime-main.ebfcaf0c.js.map",
+    "static/css/2.20aa2d7b.chunk.css": "/parrillas/static/css/2.20aa2d7b.chunk.css",
+    "static/js/2.b8a4934c.chunk.js": "/parrillas/static/js/2.b8a4934c.chunk.js",
+    "static/js/2.b8a4934c.chunk.js.map": "/parrillas/static/js/2.b8a4934c.chunk.js.map",
+    "static/js/3.ae4414bd.chunk.js": "/parrillas/static/js/3.ae4414bd.chunk.js",
+    "static/js/3.ae4414bd.chunk.js.map": "/parrillas/static/js/3.ae4414bd.chunk.js.map",
     "index.html": "/parrillas/index.html",
-    "static/css/main.8fa6af65.chunk.css.map": "/parrillas/static/css/main.8fa6af65.chunk.css.map",
-    "static/js/2.86fe4003.chunk.js.LICENSE.txt": "/parrillas/static/js/2.86fe4003.chunk.js.LICENSE.txt",
-    "static/media/motocicleta.b8171067.jpg": "/parrillas/static/media/motocicleta.b8171067.jpg"
+    "static/css/2.20aa2d7b.chunk.css.map": "/parrillas/static/css/2.20aa2d7b.chunk.css.map",
+    "static/css/main.a3f95d93.chunk.css.map": "/parrillas/static/css/main.a3f95d93.chunk.css.map",
+    "static/js/2.b8a4934c.chunk.js.LICENSE.txt": "/parrillas/static/js/2.b8a4934c.chunk.js.LICENSE.txt",
+    "static/media/logo.951ba3ac.png": "/parrillas/static/media/logo.951ba3ac.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.53d262d7.js",
-    "static/js/2.86fe4003.chunk.js",
-    "static/css/main.8fa6af65.chunk.css",
-    "static/js/main.642124e7.chunk.js"
+    "static/js/runtime-main.ebfcaf0c.js",
+    "static/css/2.20aa2d7b.chunk.css",
+    "static/js/2.b8a4934c.chunk.js",
+    "static/css/main.a3f95d93.chunk.css",
+    "static/js/main.e9fadc92.chunk.js"
   ]
 }
