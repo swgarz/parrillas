@@ -2,20 +2,30 @@
   text-align: center;
 }
 .App-logo {
-  height: 5vmin;
+  /* height: 5vmin;
   width: 10vmax;
   pointer-events: none;
-  margin-left: 5vmin;
+  margin-left: 5vmin; */
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 100%;
+  overflow: hidden;
+  pointer-events: none;
 }
 
 .App-header {
-  min-height: 10vh;
-  display: flex;
+  min-height: 100vh;
+  /* display: flex;
   justify-content: end;
-  align-items: center;
-  justify-content: center;
+  align-items: center; 
+  justify-content: center; */
   font-size: calc(10px + 2vmin);
   color: white;
+  background-image: url(./img/AdobeStock_210535515_Preview.jpeg);
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 .whatsapp{
@@ -40,4 +50,13 @@
 }
 .nav{
   color: black;
+}
+
+h1 {
+  text-transform: uppercase;
+  font-family: 'Raleway',sans-serif;
+  text-align: center;
+  font-weight: 500;
+  letter-spacing: 3px;
+  padding: 20px;
 }

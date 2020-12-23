@@ -2,12 +2,13 @@ import React from 'react';
 import "bootstrap/dist/css/bootstrap.min.css";
 import './App.css';
 import image1 from './img/PARRILLAS/125  135CC/IMG_20190113_192758182.jpg';
+import image2 from './img/PARRILLAS/125  135CC/imagen2_125_135_CC.png';
 
 
 function Container() {
     return (
         <div>
-            <div className="container">
+            {/* <div className="container">
                 <div className="row">
                     <div className="col-md-6 card" style={{}}>
                         <img src={image1} className="card-img-top" alt="..." />
@@ -57,8 +58,32 @@ function Container() {
                         </div>
                     </div>
                 </div>
+            </div> */}
+            <div className="container">
+        <div className="row">
+            <div className="col">
+            <img src={image2}  className="card-img-top" alt="..." />
+            </div>
+            <div className="col">
+            <img src={image2}  className="card-img-top" alt="..." />
             </div>
         </div>
+        <div className="row">
+            <div className="col">
+            <img src={image2}  className="card-img-top" alt="..." />
+            </div>
+            <div className="col">
+            <img src={image2}  className="card-img-top" alt="..." />
+            </div>
+            <div className="col">
+            <img src={image2}  className="card-img-top" alt="..." />
+            </div>
+        </div>
+        </div>
+        </div>
+
+
+        
     )
 }
 
